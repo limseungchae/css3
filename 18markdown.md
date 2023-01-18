@@ -148,7 +148,7 @@ a<sup>2</sup> = b<sup>2</sup> + c<sup>2</sup><br>
 https://editor.codecogs.com 를 참고함
 ---
 $a^2 = b^2 + c^2$
-
+$$x={-ba\pm\sqrt{b^2-4ac} \over 2a}$$
 
 
 
